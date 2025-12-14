@@ -3,3 +3,4 @@ Created for GitHub practice.
 This is a new line added to newfile.txt 
 New line  
 Added second line  
+Added Third line  
